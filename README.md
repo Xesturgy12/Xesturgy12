@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xesturgy12
+- 👋 Hi, I’m Sanchit
 - 👀 I’m interested in Game Development and Graphic Development
 - 🌱 I’m currently learning Full stack Web Development
 - 💞️ I’m looking to collaborate on any project where i can learn new techniques and technologies
