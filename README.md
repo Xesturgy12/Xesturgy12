@@ -1,7 +1,9 @@
 <div id="header" align="center">
     Hello There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    <br/>
+    <h2>I am Sanchit from New Delhi, India 
+        <img src='https://media.giphy.com/media/kyiG0QJm5G5gM8xPFA/giphy.gif' width='45px' heght='38px'/>
+    </h2>
     <br/>
    <img src="https://media.giphy.com/media/QTrG6mjkHEkpFR3DqX/giphy.gif" width="69%" height="15%"/>
 </div>
