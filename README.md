@@ -30,7 +30,7 @@
 <div id='socials'>
     <h2>Contact Me</h2>
     <br/>
-    <a href="www.linkedin.com/in/sanchit-sundriyal">
+    <a href="https://www.linkedin.com/in/sanchit-sundriyal">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/Sanchit__12">
